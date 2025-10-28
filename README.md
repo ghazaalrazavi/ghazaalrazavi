@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=false&vCenter=true&width=435&lines=BackEnd+Developer+In+Progress;" alt="Headline" />
 </p>
 
-<div style="font-family: 'OCR A Std', 'Courier New', monospace; font-size:18px; text-align:left; line-height:1.8; color:#00FF00; background-color:#000000; padding:15px; border-radius:5px; box-shadow: 0 0 10px #00FF00;">
+<div style="font-family: 'OCR A Std', 'Courier New', monospac; font-size:18px; text-align:left; line-height:1.8; color:#00FF00; background-color:#000000; padding:15px; border-radius:5px; box-shadow: 0 0 10px #00FF00;">
 Ghazaal here.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16" /></h1><br><br>
 I’m building a solid foundation in Python and Django.<br>
 I enjoy solving complex problems with simple code.<br>
