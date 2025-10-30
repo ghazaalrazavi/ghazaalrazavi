@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="gitt.jpg" alt="My Photo" width="600" >
+  <img src="gitt.jpg" alt="My Photo" width="800" >
 </p>
 
 ---
